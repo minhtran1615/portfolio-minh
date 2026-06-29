@@ -118,7 +118,7 @@ export const MARQUEE_IMAGES = [
 
 // Portrait image — thay bằng ảnh của bạn
 export const PORTRAIT_URL =
-  'https://shrug-person-78902957.figma.site/_components/v2/d24c01ad3a56fc65e942a1f501eb73db42d7cf9a/Rectangle_40443.81459862.png'
+    'https://raw.githubusercontent.com/minhtran1615/newduan/b25dd0ee72ae2d2197db9c8a374fa383735a51eb/minhhh-removebg-preview.png'
 
 // Decorative 3D objects in About section
 export const DECO_IMAGES = {
